@@ -48,14 +48,13 @@ func handleConn(c net.Conn) {
 			"Content-Type: text/plain\n"+
 			"Content-Length: %v\n"+
 			"Connection: close\n"+
-			"\n"+
-			payload,
+			"\n"+payload,
 		len(payload))
 
 	c.Write([]byte(resp))
 }
 
-// parseReq returns the method and payload of the request nothing else
+// parseReq returns the method and payload of the request, nothing else.
 func parseReq(in io.Reader) (string, string, error) {
 	reader := bufio.NewReader(in)
 	// Parse Request Line (Method)
