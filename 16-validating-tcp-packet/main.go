@@ -33,7 +33,6 @@ type tcpAddrs struct {
 type inputDataSet struct {
 	tcpAddrs
 	tcpData []byte
-	err     error
 }
 
 func originalChecksum(in inputDataSet) uint16 {
