@@ -1,0 +1,3 @@
+[[https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa][Bits, Bytes, Building With Binary by Vaidehi Joshi]]
+[[https://256stuff.com/256.html][The Story of 256]]
+[[https://algocademy.com/blog/understanding-bitwise-operations-and-their-uses-in-programming/][Understanding Bitwise Operations and Their Uses in Programming]]
