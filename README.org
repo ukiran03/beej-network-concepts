@@ -1,3 +1,7 @@
+* Resources for: Bits, Bytes and Bitwise operations
 [[https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa][Bits, Bytes, Building With Binary by Vaidehi Joshi]]
+[[https://beej.us/guide/bgnet0/html/split/appendix-bitwise.html#appendix-bitwise][40 Appendix: Bitwise Operations (bgnet0)]]
 [[https://256stuff.com/256.html][The Story of 256]]
 [[https://algocademy.com/blog/understanding-bitwise-operations-and-their-uses-in-programming/][Understanding Bitwise Operations and Their Uses in Programming]]
+[[https://systems-encyclopedia.cs.illinois.edu/articles/bitwise-operations/][Bitwise Operations by Systems Encyclopedia]]
+[[https://www.geeksforgeeks.org/dsa/complete-reference-for-bitwise-operators-in-programming-coding/][Complete Reference for Bitwise Operators in Programming/Coding by GeeksForGeeks]]

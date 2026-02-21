@@ -1,0 +1,4 @@
+* TODO
+** Add Comments with detailed explanations
+** Few functions are exported(Capitalised) unnecessarily
+** Add tests for remaining functions(2 or 3 leftover)
